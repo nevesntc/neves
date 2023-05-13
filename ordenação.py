@@ -49,7 +49,7 @@ class Ordenação:
         print('')
         print('')
         print('1 - Selection Sort') 
-        print('2 - Insert Sort')
+        print('2 - Insertion Sort')
         print('3 - Bobble Sort')
         print('4 - Sair')
 
